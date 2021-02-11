@@ -20,22 +20,21 @@ ul{
 h2
 {
     font-size: 50 px;
-    color: orangered;
+    color: darkred;
     font-style: oblique;
 }
 p{
     font-size: 20 px;
-    margin: 10 px;
+    margin: 20 px;
     color: saddlebrown;
-    font-style: normal;
 }
 a{
     font-style: italic;
-    color: blue;
+    color: brown;
     font-weight: bold;
 }
 h3{
     font-size: 40 px;
     font-style: oblique;
-    color: orangered;
+    color: darkred;
 }
