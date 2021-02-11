@@ -1,0 +1,41 @@
+/*Team DNA: David Tang, Nurdaulet Kaishibayev, Anson Wong
+IntroCS pd7 sec11
+HW05: Stuylin'
+2021-02-11*/
+html
+{
+    background-color: beige;
+}
+h1
+{
+    font-size: 80 px;
+    color: brown;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+ul{
+    border-color: antiquewhite;
+    font-size: 20 px;
+    color: saddlebrown;
+}
+h2
+{
+    font-size: 50 px;
+    color: orangered;
+    font-style: oblique;
+}
+p{
+    font-size: 20 px;
+    margin: 10 px;
+    color: saddlebrown;
+    font-style: normal;
+}
+a{
+    font-style: italic;
+    color: blue;
+    font-weight: bold;
+}
+h3{
+    font-size: 40 px;
+    font-style: oblique;
+    color: orangered;
+}
