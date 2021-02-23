@@ -6,11 +6,11 @@ html
 {
     background-color: beige;
 }
-h1
+h1 /*tag modified*/
 {
     font-size: 80 px;
     color: brown;
-    padding: 10 px;
+    padding-below: 10 px; /*adds space below h1*/
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 ul{
